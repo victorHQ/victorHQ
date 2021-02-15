@@ -1,16 +1,21 @@
-### Hi there 👋
+# Olá, sejam bem vindos! 👋
 
-<!--
-**victorHQ/victorHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre
+- 💬 Sou graduando em Ciências da Computação e desenvolvo alguns projetos autônomos, com foco no desenvolvimento Fullstack, como os que se encontram aqui.
 
-Here are some ideas to get you started:
+- 🌱 Atualmente tenho estudado <br>
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=&message=SASS&color=f0a5ca&style=for-the-badge&logo=sass"/>
+  <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logoColor=white&style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=0d0c0c&style=for-the-badge&logo=JavaScript"/>
+  <img src="https://img.shields.io/static/v1?label=&message=PHP&color=9c9fc9&style=for-the-badge&logo=php"/>
+  <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&logoColor=white&style=for-the-badge&logo=mysql"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Contato 
+<p align="center">
+  <a href="https://www.linkedin.com/in/victorqueiroga/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=LinkedIn"/></a>
+</p>
+
+- ⚡ Hobbies: Gosto de consumir midias relacionadas a tecnologia, ouvir música e jogar um pouco, costumo estudar C e C++ também. 
