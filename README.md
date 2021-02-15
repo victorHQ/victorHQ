@@ -17,4 +17,4 @@
   <a href="https://www.linkedin.com/in/victorqueiroga/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=LinkedIn"/></a>
 </p>
 
-- ⚡ Hobbies: Gosto de consumir midias relacionadas a tecnologia, ouvir música e jogar um pouco, costumo estudar C e C++ também. 
+- ⚡ Hobbies: Gosto de consumir midias relacionadas a tecnologia, ouvir música e jogar com meus amigos, costumo estudar C e C++ também. 
