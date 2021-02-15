@@ -1,6 +1,5 @@
 # Olá, sejam bem vindos! 👋
 
-### Sobre
 - 💬 Sou graduando em Ciências da Computação e desenvolvo alguns projetos autônomos, com foco no desenvolvimento Fullstack, como os que se encontram aqui.
 
 - 🌱 Atualmente tenho estudado <br>
