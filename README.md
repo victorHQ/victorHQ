@@ -14,7 +14,7 @@
 
 - 📫 Contato 
 <p align="center">
-  <a href="https://www.linkedin.com/in/victorqueiroga/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=LinkedIn"/></a> <a href="mailto:victor.vqs@hotmail.com"><img src="https://img.shields.io/static/v1?label=&message=E-mail&color=0078D4&style=for-the-badge&logo=microsoft-outlook"/></a> <img src="https://img.shields.io/static/v1?label=&message=VictorHQ8194&color=5865F2&style=for-the-badge&logoColor=white&logo=discord"/> <a href="https://api.whatsapp.com/send?phone=5521966375583"><img src="https://img.shields.io/static/v1?label=&message=Whatsapp&color=25D366&style=for-the-badge&logoColor=white&logo=whatsapp"/><a/>
+  <a href="https://www.linkedin.com/in/victorqueiroga/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=LinkedIn"/></a> <a href="mailto:victor.vqs@hotmail.com"><img src="https://img.shields.io/static/v1?label=&message=E-mail&color=0078D4&style=for-the-badge&logo=microsoft-outlook"/></a> <img src="https://img.shields.io/static/v1?label=&message=VictorHQ8194&color=5865F2&style=for-the-badge&logoColor=white&logo=discord"/>
 </p>
 
 - ⚡ Hobbies: Gosto de consumir midias relacionadas a tecnologia, ouvir música e jogar com meus amigos, costumo estudar C e C++ também. 
